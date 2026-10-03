@@ -31,8 +31,8 @@ A multidisciplinary project set in the year 2084, where humanity is returning to
 
 The project covered the full process from **business planning and product analysis to prototyping and development**, combining technical and business aspects.
 
+**Tech:** C# · Docker · Vue · TypeScript · JavaScript · CSS · CI/CD <br>
 **Concepts:** Business Case · Financial Planning · Product Analysis · Documentation · C4 Diagrams · Flowcharts · UCD · ERD · Wireframing · POC · Agile · Scrum · Teamwork
-**Tech:** C# · Docker · Vue · TypeScript · JavaScript · CSS · CI/CD
 
 **Team project:** Worked collaboratively using epics, issues and tasks, with daily stand-ups, retrospectives and peer evaluations.
 
