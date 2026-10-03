@@ -17,7 +17,7 @@ A web application for discovering and managing potential business leads.
 ---
 
 ### 🔨 BnD - Build & Deploy
-A distributed cinema application developed in a team as part of a semester project at Howest. The project, Howestprime, simulates a cinema platform where customers can browse movies, book events, receive tickets and where managers can manage movies and screenings.
+A distributed cinema application developed as part of a semester project at Howest. The project, Howestprime, simulates a cinema platform where customers can browse movies, book events, receive tickets and where managers can manage movies and screenings.
 
 The project was built as a collection of independently deployable services and applications, with a focus on microservices, asynchronous communication, containerization and cloud deployment.
 
